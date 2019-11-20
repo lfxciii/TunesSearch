@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tunes render test 1`] = `
+<div
+  className="container rounded w-100"
+>
+  <p>
+    sdfsdf
+  </p>
+  <div>
+    <div
+      className="float-left w-75 d-inline-block rounded"
+    >
+      <h4>
+        <em>
+          No search results
+        </em>
+      </h4>
+    </div>
+  </div>
+  <div
+    className="w-25 h-100 float-right rounded shadow"
+  >
+    <h2
+      style={
+        Object {
+          "fontFamily": "Arial",
+        }
+      }
+    >
+      <strong>
+        <i>
+          Favourites
+        </i>
+      </strong>
+    </h2>
+    <p>
+      <small>
+        <strong>
+          Add some favourites!
+        </strong>
+      </small>
+    </p>
+  </div>
+</div>
+`;
